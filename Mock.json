@@ -1,0 +1,138 @@
+[
+    {
+      "id": 1,
+      "title": "Music Concert",
+      "date": "2024-10-15",
+      "location": "Central Park, NY",
+      "thumbnail": "https://media.istockphoto.com/id/1408884392/photo/rave-party-silhouettes.jpg?s=1024x1024&w=is&k=20&c=yRTUpUX2AQt0eZj3QOLDke_Au30rlP3gaOoaN0pJLL4=",
+      "image": "https://media.istockphoto.com/id/1408884392/photo/rave-party-silhouettes.jpg?s=1024x1024&w=is&k=20&c=yRTUpUX2AQt0eZj3QOLDke_Au30rlP3gaOoaN0pJLL4=",
+      "description": "Enjoy a night of live music at Central Park featuring top artists."
+    },
+    {
+      "id": 2,
+      "title": "Art Exhibition",
+      "date": "2024-11-20",
+      "location": "City Art Gallery, LA",
+      "thumbnail": "https://cdn.pixabay.com/photo/2017/08/06/09/29/man-2590655_1280.jpg",
+      "image": "https://cdn.pixabay.com/photo/2017/08/06/09/29/man-2590655_1280.jpg",
+      "description": "Explore contemporary art from renowned and upcoming artists."
+    },
+    {
+      "id": 3,
+      "title": "Tech Conference",
+      "date": "2024-12-05",
+      "location": "Convention Center, SF",
+      "thumbnail": "https://images.stockcake.com/public/a/7/a/a7acb612-27c9-469a-bb4f-92695cc7d178_large/tech-conference-presentation-stockcake.jpg",
+      "image": "https://images.stockcake.com/public/a/7/a/a7acb612-27c9-469a-bb4f-92695cc7d178_large/tech-conference-presentation-stockcake.jpg",
+      "description": "Get insights on the latest in tech from industry leaders."
+    },
+    {
+      "id": 4,
+      "title": "Film Festival",
+      "date": "2024-10-25",
+      "location": "Downtown Cinema, LA",
+      "thumbnail": "https://media.istockphoto.com/id/1039351052/vector/movie-and-film-festival-poster-template-design-modern-retro-vintage-style.jpg?s=2048x2048&w=is&k=20&c=yt3u53sgsEjXRViftKGckvN1TGJ9I2l68oYgr8BdmWU=",
+      "image": "https://media.istockphoto.com/id/1039351052/vector/movie-and-film-festival-poster-template-design-modern-retro-vintage-style.jpg?s=2048x2048&w=is&k=20&c=yt3u53sgsEjXRViftKGckvN1TGJ9I2l68oYgr8BdmWU=",
+      "description": "Screening of indie films from around the world with Q&A sessions."
+    },
+    {
+      "id": 5,
+      "title": "Food & Wine Tasting",
+      "date": "2024-09-30",
+      "location": "Vineyard, Napa Valley",
+      "thumbnail": "https://media.istockphoto.com/id/1192104619/photo/sommelier-serving-glasses-of-winetasting-event.jpg?s=2048x2048&w=is&k=20&c=J9V1FmtpDWX3b5jwd4kVYeKrjUG-v0A9LLA0cxhBrvQ=",
+      "image": "https://media.istockphoto.com/id/1192104619/photo/sommelier-serving-glasses-of-winetasting-event.jpg?s=2048x2048&w=is&k=20&c=J9V1FmtpDWX3b5jwd4kVYeKrjUG-v0A9LLA0cxhBrvQ=",
+      "description": "An evening of gourmet food and fine wine tasting at Napa Valley."
+    },
+    {
+      "id": 6,
+      "title": "Stand-up Comedy Night",
+      "date": "2024-11-12",
+      "location": "Comedy Club, NY",
+      "thumbnail": "https://img.freepik.com/free-vector/stand-up-comedy-banner-with-red-curtains-background_1308-79470.jpg?w=1380&t=st=1727686851~exp=1727687451~hmac=8513a545907cc2a0c123b2705fd3fbe0663f2dee52e9f87ce45dffb01ee13257",
+      "image": "https://img.freepik.com/free-vector/stand-up-comedy-banner-with-red-curtains-background_1308-79470.jpg?w=1380&t=st=1727686851~exp=1727687451~hmac=8513a545907cc2a0c123b2705fd3fbe0663f2dee52e9f87ce45dffb01ee13257",
+      "description": "Enjoy a night full of laughter with performances from top comedians."
+    },
+    {
+      "id": 7,
+      "title": "Charity Gala",
+      "date": "2024-12-22",
+      "location": "Grand Hotel Ballroom, SF",
+      "thumbnail": "https://img.freepik.com/free-photo/group-different-people-volunteering-foodbank-poor-people_23-2149012211.jpg?w=1380&t=st=1727686950~exp=1727687550~hmac=d2f6c0cc6139557c5e8abb73ae593d0c49b6a8f2c7318d992c63b429da2cea8a",
+      "image": "https://img.freepik.com/free-photo/group-different-people-volunteering-foodbank-poor-people_23-2149012211.jpg?w=1380&t=st=1727686950~exp=1727687550~hmac=d2f6c0cc6139557c5e8abb73ae593d0c49b6a8f2c7318d992c63b429da2cea8a",
+      "description": "Support local charities by attending a black-tie gala event."
+    },
+    {
+      "id": 8,
+      "title": "Photography Workshop",
+      "date": "2024-10-11",
+      "location": "Beachfront Studio, Miami",
+      "thumbnail": "https://img.freepik.com/free-psd/photography-workshop-template-landing-page_23-2148668970.jpg?w=1380&t=st=1727687046~exp=1727687646~hmac=9cfd0c38d32dea50562a7e6c6068b13a1b1057aa57cfa5ce1c0f925b0bbff535",
+      "image": "https://img.freepik.com/free-psd/photography-workshop-template-landing-page_23-2148668970.jpg?w=1380&t=st=1727687046~exp=1727687646~hmac=9cfd0c38d32dea50562a7e6c6068b13a1b1057aa57cfa5ce1c0f925b0bbff535",
+      "description": "Learn photography techniques from professional photographers."
+    },
+    {
+      "id": 9,
+      "title": "Yoga Retreat",
+      "date": "2024-09-25",
+      "location": "Mountain Resort, Denver",
+      "thumbnail": "https://cdn.pixabay.com/photo/2022/01/17/09/10/retreat-6944181_1280.jpg",
+      "image": "https://cdn.pixabay.com/photo/2022/01/17/09/10/retreat-6944181_1280.jpg",
+      "description": "Relax and unwind at a weekend yoga retreat in the mountains."
+    },
+    {
+      "id": 10,
+      "title": "Book Fair",
+      "date": "2024-11-05",
+      "location": "Convention Center, Chicago",
+      "thumbnail": "https://i0.wp.com/kfikolkata.org/wp-content/uploads/2020/09/IMG-20191108-WA0011-1.jpg?ssl=1",
+      "image": "https://i0.wp.com/kfikolkata.org/wp-content/uploads/2020/09/IMG-20191108-WA0011-1.jpg?ssl=1",
+      "description": "Discover and buy the latest books from local and international authors."
+    },
+    {
+      "id": 11,
+      "title": "Rock Climbing Championship",
+      "date": "2024-10-02",
+      "location": "Rock Park, Colorado",
+      "thumbnail": "https://c.pxhere.com/photos/85/94/adventure_challenge_climb_climber_courage_dangerous_determination_man-1528587.jpg!d",
+      "image": "https://c.pxhere.com/photos/85/94/adventure_challenge_climb_climber_courage_dangerous_determination_man-1528587.jpg!d",
+      "description": "Watch professional climbers compete in a thrilling rock climbing event."
+    },
+    {
+      "id": 12,
+      "title": "Halloween Party",
+      "date": "2024-10-31",
+      "location": "Club Inferno, LA",
+      "thumbnail": "https://cdn.pixabay.com/photo/2015/09/26/13/25/halloween-959049_1280.jpg",
+      "image": "https://cdn.pixabay.com/photo/2015/09/26/13/25/halloween-959049_1280.jpg",
+      "description": "Celebrate Halloween with a costume contest, music, and spooky fun."
+    },
+    {
+      "id": 13,
+      "title": "Winter Craft Market",
+      "date": "2024-12-15",
+      "location": "Town Square, Boston",
+      "thumbnail": "https://media.istockphoto.com/id/1062453550/photo/winter-holidays-kiosk-with-festive-gifts-and-souvenirs.jpg?s=2048x2048&w=is&k=20&c=gEIYORq3e8gGa9G8bi10echlxsn8mAqH6EOvDzCIiKo=",
+      "image": "https://media.istockphoto.com/id/1062453550/photo/winter-holidays-kiosk-with-festive-gifts-and-souvenirs.jpg?s=2048x2048&w=is&k=20&c=gEIYORq3e8gGa9G8bi10echlxsn8mAqH6EOvDzCIiKo=",
+      "description": "Shop for handmade crafts, gifts, and decor at the annual winter market."
+    },
+    {
+      "id": 14,
+      "title": "Classical Music Recital",
+      "date": "2024-11-18",
+      "location": "Opera House, Sydney",
+      "thumbnail": "https://c.pxhere.com/photos/ed/f6/classical_music_concert_macro_music_musical_instruments_musicians_orchestra_performance-944711.jpg!d",
+      "image": "https://c.pxhere.com/photos/ed/f6/classical_music_concert_macro_music_musical_instruments_musicians_orchestra_performance-944711.jpg!d",
+      "description": "Enjoy a night of classical music by world-renowned musicians."
+    },
+    {
+      "id": 15,
+      "title": "Startup Pitch Event",
+      "date": "2024-12-01",
+      "location": "Innovation Hub, SF",
+      "thumbnail": "https://www.growthmentor.com/wp-content/uploads/2022/11/startup-pitch-competition.jpg",
+      "image": "https://www.growthmentor.com/wp-content/uploads/2022/11/startup-pitch-competition.jpg",
+      "description": "Watch startup founders pitch their ideas to investors."
+    }
+  ]
+  
